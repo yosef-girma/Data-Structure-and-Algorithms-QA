@@ -15,6 +15,9 @@ import static java.util.stream.Collectors.toList;
 /*
 Calculate the hourglass sum for every hourglass in , then print the maximum hourglass sum.
 
+30 days challenge
+
+Day 11
 Hackerrank https://www.hackerrank.com/challenges/30-2d-arrays/problem
 
  */
